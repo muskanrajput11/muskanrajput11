@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @muskanrajput11
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
 
 <!---
 muskanrajput11/muskanrajput11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
